@@ -1,7 +1,8 @@
 ## Bem vindo! Eu sou Maysa Lopes de Sousa, tenho 18 anos.
 
-- 🔭 Sou docente de tecnologia da informação, cursei técnico em Analise e Desenvolvimento de Sistemas.
-- 💻📚 Atualmente estou graduando em Análise e Desenvolvimento de Sistemas.
+- 🔭 Sou docente de tecnologia da informação.
+🎓 Cursei o técnico em Análise e Desenvolvimento de Sistemas, onde adquiri habilidades sólidas em programação e desenvolvimento de software.
+💻📚 Atualmente estou empenhada na graduação em Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos.
 
 <div align="center">
   <a href="https://github.com/Mlps1503/">
