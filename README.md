@@ -4,6 +4,8 @@
   <b>Maysa Lopes de Sousa</b> | 👩‍💻 19 anos | 💡 Docente de TI | 🚀 Desenvolvedora em formação
 </p>
 
+
+
 ---
 
 ## 👩‍💻 Sobre Mim
@@ -39,14 +41,6 @@ Atualmente sou **docente de Tecnologia da Informação** e estou sempre em busca
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Maysalopess&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysalopess&layout=compact&langs_count=7&theme=radical"/>
   </a>
-</div>
-
----
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Maysalopess&theme=github-dark" alt="Gráfico de Contribuições" />
 </div>
 
 ---
