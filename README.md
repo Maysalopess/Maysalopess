@@ -66,3 +66,11 @@ Atualmente sou **docente de Tecnologia da Informação** e estou sempre em busca
   <br/>
   ✨ Obrigada por visitar meu perfil! ✨
 </p>
+
+---
+
+## 🐍 Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maysalopess/Maysalopess/output/snake.svg" alt="Snake animation"/>
+</p>
