@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Bem-vindo(a) ao meu perfil!</h1>
 
 <p align="center">
-  <b>Maysa Lopes de Sousa</b> | 👩‍💻 19 anos | 💡 Docente de TI | 🚀 Desenvolvedora em formação
+  <b>Maysa Lopes de Sousa</b> | 👩‍💻 20 anos | 💡 Docente de TI | 🚀 Desenvolvedora em formação
 </p>
 
 
